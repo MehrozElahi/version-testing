@@ -5,7 +5,7 @@
 
 <style>
     .bttn{
-        color:white;
+        color:black;
 
     }
     .card .view:hover img{
@@ -67,7 +67,7 @@ height:600px;
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
    <!-- <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span> -->
-      <img src="images/left_icon.png" style="float:left; padding-top:300px;" />
+      <img src="images/left_icon.png" style="float:left; padding-top:320px;" />
 
     <span class="sr-only">Previous</span>
   </a>
